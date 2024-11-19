@@ -47,11 +47,11 @@ const Navbar = () => {
     <div className='flex h-14 items-center justify-center border-b-[1px] border-b-richblack-700'>
       <div className='flex w-9/12 max-w-maxContent items-center justify-between'>
 
-        {/* images */}
+        {/* images 
         <Link to="/" >
           <img src={logo} alt="" width={160} height={42} loading='lazy' />
         </Link>
-
+        */}
         {/* navlinks */}
         <nav>
           <ul className='flex-row gap-x-6 text-richblack-25 gap-5 hidden md:flex'>
